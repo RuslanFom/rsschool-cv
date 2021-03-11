@@ -59,3 +59,7 @@ University of Bologna, International and diplomatic relations, 2014-2016.
 Italian(highly proficient)
 English(B2)
 French(A2)
+
+---
+
+##Additional information
